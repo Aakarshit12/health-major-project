@@ -1,0 +1,11 @@
+STDOUT:
+
+
+STDERR:
+Traceback (most recent call last):
+  File "C:\Users\aakar\OneDrive\Desktop\major project\project draft -1\torchxrayvision\eval.py", line 9, in <module>
+    from sklearn.metrics import (
+ModuleNotFoundError: No module named 'sklearn'
+
+
+Return code: 1

@@ -1,0 +1,22 @@
+
+Using device: cpu
+
+Loading TorchXRayVision model: densenet121-res224-all...
+Model loaded successfully!
+Model pathologies: 18 classes
+
+Loading Dataset with Labels...
+Traceback (most recent call last):
+  File "C:\Users\aakar\OneDrive\Desktop\major project\project draft -1\torchxrayvision\eval.py", line 396, in main
+    dataset = xrv_datasets.CSV_Dataset(
+              ^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: module 'torchxrayvision.datasets' has no attribute 'CSV_Dataset'. Did you mean: 'CheX_Dataset'?
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\aakar\OneDrive\Desktop\major project\project draft -1\torchxrayvision\eval.py", line 466, in <module>
+    main()
+  File "C:\Users\aakar\OneDrive\Desktop\major project\project draft -1\torchxrayvision\eval.py", line 403, in main
+    raise RuntimeError(f"Failed to load dataset: {e}")
+RuntimeError: Failed to load dataset: module 'torchxrayvision.datasets' has no attribute 'CSV_Dataset'

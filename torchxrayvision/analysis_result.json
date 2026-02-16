@@ -1,0 +1,192 @@
+{
+  "success": true,
+  "timestamp": "2025-11-17T12:40:47.417819",
+  "summary": {
+    "top_finding": "Hiatal Hernia",
+    "probability": 0.9935550689697266,
+    "percentage": 99.4,
+    "risk_level": "Very High Risk"
+  },
+  "findings": [
+    {
+      "disease": "Hernia",
+      "disease_name": "Hiatal Hernia",
+      "probability": 0.9935550689697266,
+      "percentage": 99.4,
+      "risk_level": "Very High Risk",
+      "emoji": "\ud83d\udd34",
+      "description": "Part of stomach pushes through diaphragm",
+      "action": "Gastroenterology consultation if symptomatic"
+    },
+    {
+      "disease": "Mass",
+      "disease_name": "Lung Mass",
+      "probability": 0.5645779371261597,
+      "percentage": 56.5,
+      "risk_level": "High Risk",
+      "emoji": "\ud83d\udfe0",
+      "description": "Larger growth in lung tissue",
+      "action": "Immediate specialist evaluation and possible biopsy"
+    },
+    {
+      "disease": "Atelectasis",
+      "disease_name": "Atelectasis",
+      "probability": 0.54051274061203,
+      "percentage": 54.1,
+      "risk_level": "High Risk",
+      "emoji": "\ud83d\udfe0",
+      "description": "Partial or complete collapse of lung tissue",
+      "action": "Consult a pulmonologist for breathing exercises and treatment"
+    },
+    {
+      "disease": "Pleural_Thickening",
+      "disease_name": "Pleural Thickening",
+      "probability": 0.5325583219528198,
+      "percentage": 53.3,
+      "risk_level": "High Risk",
+      "emoji": "\ud83d\udfe0",
+      "description": "Thickened lining around the lungs",
+      "action": "Monitor and follow up with your doctor"
+    },
+    {
+      "disease": "Infiltration",
+      "disease_name": "Pulmonary Infiltration",
+      "probability": 0.5185866355895996,
+      "percentage": 51.9,
+      "risk_level": "High Risk",
+      "emoji": "\ud83d\udfe0",
+      "description": "Abnormal substances in lung tissue",
+      "action": "Further imaging and clinical correlation recommended"
+    },
+    {
+      "disease": "Fibrosis",
+      "disease_name": "Pulmonary Fibrosis",
+      "probability": 0.5155581831932068,
+      "percentage": 51.6,
+      "risk_level": "High Risk",
+      "emoji": "\ud83d\udfe0",
+      "description": "Scarring and thickening of lung tissue",
+      "action": "Specialist evaluation and monitoring required"
+    },
+    {
+      "disease": "Fracture",
+      "disease_name": "Rib Fracture",
+      "probability": 0.513129472732544,
+      "percentage": 51.3,
+      "risk_level": "High Risk",
+      "emoji": "\ud83d\udfe0",
+      "description": "Broken rib bone",
+      "action": "Pain management and rest; heals naturally"
+    },
+    {
+      "disease": "Nodule",
+      "disease_name": "Pulmonary Nodule",
+      "probability": 0.5094887018203735,
+      "percentage": 50.9,
+      "risk_level": "High Risk",
+      "emoji": "\ud83d\udfe0",
+      "description": "Small round growth in the lung",
+      "action": "Follow-up CT scan needed for characterization"
+    },
+    {
+      "disease": "Emphysema",
+      "disease_name": "Emphysema",
+      "probability": 0.5004621744155884,
+      "percentage": 50.0,
+      "risk_level": "High Risk",
+      "emoji": "\ud83d\udfe0",
+      "description": "Damaged air sacs in the lungs",
+      "action": "Consult pulmonologist for management plan"
+    },
+    {
+      "disease": "Cardiomegaly",
+      "disease_name": "Cardiomegaly",
+      "probability": 0.46688202023506165,
+      "percentage": 46.7,
+      "risk_level": "Moderate Risk",
+      "emoji": "\ud83d\udfe1",
+      "description": "Enlarged heart",
+      "action": "Cardiology consultation recommended"
+    },
+    {
+      "disease": "Lung Opacity",
+      "disease_name": "Lung Opacity",
+      "probability": 0.3616490662097931,
+      "percentage": 36.2,
+      "risk_level": "Moderate Risk",
+      "emoji": "\ud83d\udfe1",
+      "description": "Area of increased density in lung",
+      "action": "Clinical correlation and possible follow-up imaging"
+    },
+    {
+      "disease": "Consolidation",
+      "disease_name": "Lung Consolidation",
+      "probability": 0.17454077303409576,
+      "percentage": 17.5,
+      "risk_level": "Low Risk",
+      "emoji": "\ud83d\udfe2",
+      "description": "Air spaces filled with fluid or tissue",
+      "action": "Medical evaluation needed - may require antibiotics"
+    },
+    {
+      "disease": "Effusion",
+      "disease_name": "Pleural Effusion",
+      "probability": 0.12558937072753906,
+      "percentage": 12.6,
+      "risk_level": "Very Low Risk",
+      "emoji": "\u26aa",
+      "description": "Fluid buildup around the lungs",
+      "action": "Pulmonologist consultation for possible drainage"
+    },
+    {
+      "disease": "Enlarged Cardiomediastinum",
+      "disease_name": "Enlarged Cardiomediastinum",
+      "probability": 0.10844509303569794,
+      "percentage": 10.8,
+      "risk_level": "Very Low Risk",
+      "emoji": "\u26aa",
+      "description": "Widened central chest area",
+      "action": "Cardiac evaluation recommended"
+    },
+    {
+      "disease": "Pneumothorax",
+      "disease_name": "Pneumothorax",
+      "probability": 0.10749135911464691,
+      "percentage": 10.7,
+      "risk_level": "Very Low Risk",
+      "emoji": "\u26aa",
+      "description": "Collapsed lung due to air leakage",
+      "action": "URGENT: Seek emergency medical care immediately"
+    },
+    {
+      "disease": "Pneumonia",
+      "disease_name": "Pneumonia",
+      "probability": 0.04354599863290787,
+      "percentage": 4.4,
+      "risk_level": "Very Low Risk",
+      "emoji": "\u26aa",
+      "description": "Infection causing lung inflammation",
+      "action": "Immediate medical attention and antibiotics needed"
+    },
+    {
+      "disease": "Lung Lesion",
+      "disease_name": "Lung Lesion",
+      "probability": 0.0022418485023081303,
+      "percentage": 0.2,
+      "risk_level": "Very Low Risk",
+      "emoji": "\u26aa",
+      "description": "Abnormal area in lung tissue",
+      "action": "Further investigation with CT scan recommended"
+    },
+    {
+      "disease": "Edema",
+      "disease_name": "Pulmonary Edema",
+      "probability": 0.0010575245833024383,
+      "percentage": 0.1,
+      "risk_level": "Very Low Risk",
+      "emoji": "\u26aa",
+      "description": "Excess fluid in the lungs",
+      "action": "Medical attention needed within 24 hours"
+    }
+  ]
+}

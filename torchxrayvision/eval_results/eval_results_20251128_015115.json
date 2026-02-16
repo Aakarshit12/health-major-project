@@ -1,0 +1,12 @@
+{
+  "timestamp": "20251128_015115",
+  "config": {
+    "image_dir": "images/",
+    "csv_file": null,
+    "model": "densenet121-res224-all",
+    "batch_size": 16,
+    "threshold": 0.5
+  },
+  "metrics": null,
+  "predictions_csv": "eval_results\\predictions_20251128_015115.csv"
+}
